@@ -1,0 +1,1 @@
+This is a simple react app that bookmarks pages using names and their url. This app uses a database to store the bookmarks and php
